@@ -1,0 +1,10 @@
+.navbar-links {
+    border: 2px solid red;
+    list-style: none;
+    color: black;
+}
+
+.navbar-links a {
+    color: black;
+    text-decoration: none;
+}
